@@ -1,3 +1,4 @@
+![logo](https://github.com/KhoyaniChetan2224/KhoyaniChetan2224/blob/main/github%20banner.gif)
 <h1 align="center">Hi 👋, I'm Khoyani Chetan</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
