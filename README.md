@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khoyanichetan2224&label=Profile%20views&color=0e75b6&style=flat" alt="khoyanichetan2224" /> </p>
 
-- 🔭 I’m currently working on **Web_Dev_using_MERN_Stack**
+- 🔭 I’m currently working on **Frontend & Backend Developer | Full-Stack MERN Developer**
 
 - 🌱 I’m currently learning **Problem Solving Skill and DSA**
 
